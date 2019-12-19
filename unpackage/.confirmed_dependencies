@@ -1,0 +1,30 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "priority": 0,
+    "resources": [],
+    "refer": []
+  },
+  "html/2048.html": {
+    "href": "html/2048.html",
+    "resources": [
+      "css/2048.css",
+      "js/jquery-3.3.1.min.js",
+      "js/common.js",
+      "js/animation.js",
+      "js/main.js"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "2048.html": {
+    "resources": [
+      "js/main.js",
+      "js/common.js",
+      "css/2048.css",
+      "js/jquery-3.3.1.min.js",
+      "js/animation.js"
+    ],
+    "refer": []
+  }
+}
