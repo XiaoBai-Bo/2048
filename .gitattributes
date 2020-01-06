@@ -1,0 +1,3 @@
+*.js linguist-language=JQuery
+*.css linguist-language=JQuery
+*.html linguist-language=JQuery
